@@ -2,7 +2,7 @@
 - 👀 I’m interested in MERN (React, Node.js, Express, MongoDB), React Native and Python (Django) language.
 - 🌱 I’m currently learning Next Js and advancing my JavaScript Skills.
 - 💞️ I’m looking to collaborate on web apps and open source projects.
-- 📫 How to reach me: francismurayadev@gmail.com
+- 📫 How to reach me: francismurayadev@gmail.com || https://www.linkedin.com/in/francis-muraya-84387a341/
 - 😄 Pronouns: ...
 - ⚡ Fun fact: I love mixing tech with lifestyle and creativity.
 
