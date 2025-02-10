@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning Next Js and advancing my JavaScript Skills.
 - 💞️ I’m looking to collaborate on web apps and open source projects.
 - 📫 How to reach me: francismurayadev@gmail.com || https://www.linkedin.com/in/francis-muraya/
-- 😄 Pronouns: ...
 - ⚡ Fun fact: I love mixing tech with lifestyle and creativity.
 
 <!---
