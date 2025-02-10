@@ -1,6 +1,6 @@
 # 👋 Hey there, I'm Francis Muraya!
 
-🚀 **Full Stack Developer | MERN Stack Enthusiast | Tech Entrepreneur**  
+🚀 **Full Stack Developer | Graphic Designer | Technical Writer**  
 💡 Passionate about building scalable web applications, creating innovative digital solutions, and exploring the intersection of web development & business.
 
 ## 🌐 About Me
@@ -19,6 +19,11 @@
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![APIs](https://img.shields.io/badge/-APIs-FF6F00?style=flat-square&logo=api&logoColor=white)
 
 ## 📊 GitHub Stats
 ![FrancisMurayaDev's Stats](https://github-readme-stats.vercel.app/api?username=FrancisMurayaDev&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
@@ -34,6 +39,7 @@
 ## 🌍 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francis-muraya/)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox/FMfcgzQZTCnGsFMGGFLwhSfpzhQrSZdL)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/FrancMurayaDev)
 [![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@FrancisMurayaDev)
 
