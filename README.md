@@ -31,14 +31,13 @@
 
 ## 📊 GitHub Stats
 
-
-![FrancisMurayaDev's Stats](https://github-readme-stats.vercel.app/api?username=FrancisMurayaDev&theme=vue-dark&show_icons=true&hide_border=true&count_private=true) 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FrancisMurayaDev&theme=dark&show_icons=true&hide_border=true&count_private=true)
 
 ## 🏆 Contributions
-![FrancisMurayaDev's Streak](https://github-readme-streak-stats.herokuapp.com/?user=FrancisMurayaDev&theme=vue-dark&hide_border=true)
 
+![GitHub Stats](https://streak-stats.demolab.com?user=FrancisMurayaDev&theme=dark&hide_border=true)
 
-![FrancisMurayaDev's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FrancisMurayaDev&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=FrancisMurayaDev&theme=dark&show_icons=true&hide_border=true&layout=compact)
 
 
 
