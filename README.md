@@ -32,6 +32,8 @@
 ![APIs](https://img.shields.io/badge/-APIs-FF6F00?style=flat-square&logo=api&logoColor=white)
 ![Web3](https://img.shields.io/badge/-Web3-3C3C3D?style=flat-square&logo=web3.js&logoColor=white)
 ![Blockchain](https://img.shields.io/badge/-Blockchain-121D33?style=flat-square&logo=ethereum&logoColor=white)
+![BodyParser](https://img.shields.io/badge/-BodyParser-000000?style=flat-square&logo=npm&logoColor=white)
+![NPM](https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white)
 
 ## 📊 GitHub Stats
 
