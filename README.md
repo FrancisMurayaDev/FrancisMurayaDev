@@ -27,6 +27,8 @@
 ![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 ![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![ShadCN UI](https://img.shields.io/badge/-ShadCN_UI-000000?style=flat-square&logo=shadcn&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![APIs](https://img.shields.io/badge/-APIs-FF6F00?style=flat-square&logo=api&logoColor=white)
 ![Web3](https://img.shields.io/badge/-Web3-3C3C3D?style=flat-square&logo=web3.js&logoColor=white)
 ![Blockchain](https://img.shields.io/badge/-Blockchain-121D33?style=flat-square&logo=ethereum&logoColor=white)
