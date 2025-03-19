@@ -34,6 +34,7 @@
 ![Blockchain](https://img.shields.io/badge/-Blockchain-121D33?style=flat-square&logo=ethereum&logoColor=white)
 ![BodyParser](https://img.shields.io/badge/-BodyParser-000000?style=flat-square&logo=npm&logoColor=white)
 ![NPM](https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white)
+![WriterSide](https://img.shields.io/badge/-WriterSide-000000?style=flat-square&logo=jetbrains&logoColor=white)
 
 ## 📊 GitHub Stats
 
