@@ -35,6 +35,8 @@
 ![BodyParser](https://img.shields.io/badge/-BodyParser-000000?style=flat-square&logo=npm&logoColor=white)
 ![NPM](https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white)
 ![WriterSide](https://img.shields.io/badge/-WriterSide-000000?style=flat-square&logo=jetbrains&logoColor=white)
+![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white)
+![Illustrator](https://img.shields.io/badge/-Illustrator-FF9A00?style=flat-square&logo=adobe-illustrator&logoColor=white)
 
 ## 📊 GitHub Stats
 
