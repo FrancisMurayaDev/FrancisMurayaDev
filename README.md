@@ -34,13 +34,13 @@
 ![Blockchain](https://img.shields.io/badge/-Blockchain-121D33?style=flat-square&logo=ethereum&logoColor=white)
 ![BodyParser](https://img.shields.io/badge/-BodyParser-000000?style=flat-square&logo=npm&logoColor=white)
 ![NPM](https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white)
-![WriterSide](https://img.shields.io/badge/-WriterSide-000000?style=flat-square&logo=jetbrains&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white)
 ![Illustrator](https://img.shields.io/badge/-Illustrator-FF9A00?style=flat-square&logo=adobe-illustrator&logoColor=white)
 ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
 ![Appwrite](https://img.shields.io/badge/-Appwrite-F02E65?style=flat-square&logo=appwrite&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![WebStorm](https://img.shields.io/badge/-WebStorm-000000?style=flat-square&logo=jetbrains&logoColor=white)
+![WriterSide](https://img.shields.io/badge/-WriterSide-000000?style=flat-square&logo=jetbrains&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 ## 📊 GitHub Stats
