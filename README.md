@@ -38,6 +38,8 @@
 ![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white)
 ![Illustrator](https://img.shields.io/badge/-Illustrator-FF9A00?style=flat-square&logo=adobe-illustrator&logoColor=white)
 ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![Appwrite](https://img.shields.io/badge/-Appwrite-F02E65?style=flat-square&logo=appwrite&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
 ## 📊 GitHub Stats
 
